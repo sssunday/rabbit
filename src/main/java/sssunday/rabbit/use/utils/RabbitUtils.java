@@ -1,4 +1,4 @@
-package sssunday.mavendemo.rabbitmq.utils;
+package sssunday.rabbit.rabbitmq.utils;
 
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;

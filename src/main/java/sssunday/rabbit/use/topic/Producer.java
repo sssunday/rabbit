@@ -1,4 +1,4 @@
-package sssunday.mavendemo.rabbitmq.topic;
+package sssunday.rabbit.rabbitmq.topic;
 
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
@@ -8,7 +8,7 @@ import com.rabbitmq.client.AMQP.BasicProperties.Builder;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 
-import sssunday.mavendemo.rabbitmq.utils.RabbitUtils;
+import sssunday.rabbit.rabbitmq.utils.RabbitUtils;
 
 public class Producer {
 

@@ -1,4 +1,4 @@
-package sssunday.mavendemo.rabbitmq.trans;
+package sssunday.rabbit.rabbitmq.trans;
 
 import java.io.IOException;
 import java.util.Collections;
@@ -10,7 +10,7 @@ import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.ConfirmListener;
 import com.rabbitmq.client.Connection;
 
-import sssunday.mavendemo.rabbitmq.utils.RabbitUtils;
+import sssunday.rabbit.rabbitmq.utils.RabbitUtils;
 
 public class Producer2 {
 

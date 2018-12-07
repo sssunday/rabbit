@@ -1,4 +1,4 @@
-package sssunday.mavendemo.io;
+package sssunday.rabbit.io;
 
 import java.io.IOException;
 import java.io.InputStream;

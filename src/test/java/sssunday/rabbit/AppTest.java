@@ -1,4 +1,4 @@
-package sssunday.mavendemo;
+package sssunday.rabbit;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

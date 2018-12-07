@@ -1,4 +1,4 @@
-package sssunday.mavendemo.io;
+package sssunday.rabbit.io;
 
 public class IOMain {
 

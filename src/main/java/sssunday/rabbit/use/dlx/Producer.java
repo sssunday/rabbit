@@ -1,4 +1,4 @@
-package sssunday.mavendemo.rabbitmq.dlx;
+package sssunday.rabbit.rabbitmq.dlx;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -9,7 +9,7 @@ import com.rabbitmq.client.AMQP.BasicProperties;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 
-import sssunday.mavendemo.rabbitmq.utils.RabbitUtils;
+import sssunday.rabbit.rabbitmq.utils.RabbitUtils;
 /**
  * 死信交换器
  * @author shuxue
