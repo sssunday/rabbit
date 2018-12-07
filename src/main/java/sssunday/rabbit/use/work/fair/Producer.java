@@ -1,4 +1,4 @@
-package sssunday.rabbit.rabbitmq.work.fair;
+package sssunday.rabbit.use.work.fair;
 
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
@@ -6,7 +6,7 @@ import java.util.concurrent.TimeoutException;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 
-import sssunday.rabbit.rabbitmq.utils.RabbitUtils;
+import sssunday.rabbit.use.utils.RabbitUtils;
 
 public class Producer {
 

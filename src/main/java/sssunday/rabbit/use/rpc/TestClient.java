@@ -1,4 +1,4 @@
-package sssunday.rabbit.rabbitmq.rpc;
+package sssunday.rabbit.use.rpc;
 
 import java.io.IOException;
 import java.util.UUID;
@@ -10,7 +10,7 @@ import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.RpcClient;
 import com.rabbitmq.client.RpcClient.Response;
 
-import sssunday.rabbit.rabbitmq.utils.RabbitUtils;
+import sssunday.rabbit.use.utils.RabbitUtils;
 
 public class TestClient {
 

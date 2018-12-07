@@ -1,4 +1,4 @@
-package sssunday.rabbit.rabbitmq.utils;
+package sssunday.rabbit.use.utils;
 
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
